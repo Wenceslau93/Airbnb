@@ -5,7 +5,7 @@ Airbnb é uma comunidade online, onde as pessoas possam anunciar e reservarem ac
 
 A base de dados airbnb.csv (dados abertos da plataforma airbnb) contém dados de casas e apartamentos que estão disponíveis para aluguel e as características que influenciam na composição do preço da locação.
 
-<br/>
+<br/><br/>
 
 <p align="center"><a href="https://wenceslau93.github.io/Airbnb/">Acesse o projeto Clicando Aqui!</a></p>
 
