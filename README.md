@@ -1,5 +1,5 @@
 # Airbnb
-Como maximizar os lucros no Airbnb?
+Como maximizar os lucros do Airbnb?
 
 Airbnb é uma comunidade online, onde as pessoas possam anunciar e reservarem acomodações e meios de hospedagem.
 
