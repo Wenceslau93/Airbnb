@@ -7,7 +7,7 @@ A base de dados airbnb.csv (dados abertos da plataforma airbnb) contém dados de
 
 <br/><br/>
 
-<p align="center"><a href="https://github.com/Wenceslau93/Airbnb/blob/main/Airbnb.pdf">Acesse o projeto Clicando Aqui!</a></p>
+<p align="center"><a href="https://wenceslau93.github.io/Airbnb/">Acesse o projeto Clicando Aqui!</a></p>
 
 <br/>
 <p align="center">
